@@ -1,4 +1,5 @@
 import React from "react";
+import './style.css';
 import { AiFillGithub } from 'react-icons/ai';
 import { SiTwitter, SiInstagram } from 'react-icons/si'
 import { ImFacebook } from 'react-icons/im'
