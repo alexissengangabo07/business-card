@@ -1,0 +1,28 @@
+  .social-media {
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    gap: 18px;
+    background-color: #161619;
+    border-radius: 0px 0px 10px 10px;
+  }
+  
+  .btn-social-media {
+    width: 25px;
+    height: 25px;
+    border-radius: 3px;
+    font-size: 15px;
+    color: #39393a;
+    background-color: #918E9B;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 1s ease;
+  }
+
+  .btn-social-media:hover {
+    background-color: #5093E2;
+    color: lightgray;
+  }

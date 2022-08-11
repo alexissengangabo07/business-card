@@ -1,6 +1,6 @@
-import TopSection from './components/TopSection';
-import Main from './components/Main';
-import BottomSection from './components/BottomSection';
+import TopSection from './components/top-section/TopSection';
+import Main from './components/main/Main';
+import BottomSection from './components/bottom-section/BottomSection';
 import './App.css';
 
 function App() {
